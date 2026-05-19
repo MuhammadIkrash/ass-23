@@ -1,0 +1,15 @@
+body {
+  background: #f8fafc;
+  font-family: 'Poppins', sans-serif;
+  color: #1f2937;
+}
+
+h1,
+h3 {
+  font-weight: 700;
+}
+
+.list-group-item {
+  border-radius: 8px !important;
+  margin-bottom: 8px;
+}
